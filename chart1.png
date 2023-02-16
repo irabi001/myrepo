@@ -1,0 +1,14 @@
+---
+title: "CS625-HW3"
+author: "Ismail Rabiu"
+date: "2023-02-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Original Chart
+
+Knitr::include_graphics("html-file-with-code-chart1.png")
